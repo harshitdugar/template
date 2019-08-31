@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat&display=swap');
+body{
+    font-family: 'Montserrat', sans-serif;
+    
+}
+.navbar .navbar-expand-lg .navbar-light .bg-light{
+    background-color: #4287f5;
+}
+
+
+#navDropdown:hover{
+    background-color: #0af248;
+}
+.jumbotron{
+    background-color: #e7daf2;
+}
